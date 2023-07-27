@@ -1,0 +1,25 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/typescript-node",
+  "features": {
+    "ghcr.io/devcontainers/features/go:1": {},
+    "ghcr.io/devcontainers/features/python:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        // Update `../.vscode/extensions.json` as well.
+        "albert.tabout",
+        "alexanderte.dainty-one-dark-pro-vscode",
+        "astro-build.astro-vscode",
+        "bradlc.vscode-tailwindcss",
+        "christian-kohler.path-intellisense",
+        "dbaeumer.vscode-eslint",
+        "donjayamanne.githistory",
+        "gruntfuggly.todo-tree",
+        "mhutchie.git-graph",
+        "ms-vscode.vscode-typescript-next",
+        "pkief.material-icon-theme"
+      ]
+    }
+  }
+}

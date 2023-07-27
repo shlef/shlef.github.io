@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "albert.tabout",
+        "alexanderte.dainty-one-dark-pro-vscode",
+        "astro-build.astro-vscode",
+        "bradlc.vscode-tailwindcss",
+        "christian-kohler.path-intellisense",
+        "dbaeumer.vscode-eslint",
+        "donjayamanne.githistory",
+        "gruntfuggly.todo-tree",
+        "mhutchie.git-graph",
+        "ms-vscode.vscode-typescript-next",
+        "pkief.material-icon-theme",
+    ]
+}
