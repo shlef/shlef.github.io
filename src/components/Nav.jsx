@@ -21,7 +21,7 @@ export default function Nav() {
         <img
           src="https://www.svgrepo.com/download/396470/file-folder.svg"
           width={40}
-          alt="Shlef Logo"
+          alt="Xyncer Logo"
         />
       </a>
       <div className="md:hidden">
@@ -94,7 +94,7 @@ export default function Nav() {
               })}
               <li>
                 <a
-                  href="https://github.com/shlef"
+                  href="https://github.com/xyncer"
                   className="flex items-center justify-center gap-x-1 py-2 px-4 text-white font-medium bg-sky-500 hover:bg-sky-400 active:bg-sky-600 duration-150 rounded-full md:inline-flex"
                 >
                   GitHub
