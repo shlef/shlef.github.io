@@ -17,5 +17,6 @@
         "pkief.material-icon-theme"
       ]
     }
-  }
+  },
+  "onCreateCommand": "npm install"
 }
