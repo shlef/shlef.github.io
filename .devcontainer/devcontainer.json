@@ -22,5 +22,14 @@
       ]
     }
   },
-  "onCreateCommand": "npm install"
+  "onCreateCommand": "npm install",
+  "postStartCommand": "astro dev --port 3000",
+  "forwardPorts": [
+      3000
+  ],
+  "portsAttributes": {
+      "3000": {
+          "label": "xyncer"
+      }
+  }
 }
